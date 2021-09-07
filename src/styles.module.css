@@ -7,3 +7,43 @@
   font-size: 2em;
   text-align: center;
 }
+
+/* Slideshow */
+
+.slideshow {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.slideshowSlider {
+  white-space: nowrap;
+  transition: ease 1000ms;
+}
+
+.slide {
+  width: 100%;
+  height: auto;
+  /* border-radius: 40px; */
+  display: inline-block;
+}
+
+/* Buttons */
+
+.slideshowDots {
+  text-align: center;
+}
+
+.slideshowDot {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  margin: 15px 7px 0px;
+  display: inline-block;
+  background-color: #c4c4c4;
+}
+
+.slideshowDot.active {
+  background-color: #6a0dad;
+}
