@@ -1,10 +1,10 @@
 {
-  "name": "simple-carousel",
+  "name": "dky-simple-carousel",
   "version": "1.2.0",
   "description": "Simple Carousel",
   "author": "Dekartmc",
   "license": "MIT",
-  "repository": "Dekartmc/simple-carousel",
+  "repository": "Dekartmc/dky-simple-carousel",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
