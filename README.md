@@ -2,7 +2,7 @@
 
 > dky-simple-carousel
 
-[![NPM](https://img.shields.io/npm/v/simple-carousel.svg)](https://www.npmjs.com/package/simple-carousel) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![npm version](https://img.shields.io/npm/v/dky-simple-carousel.svg?style=flat-square)](https://www.npmjs.com/package/dky-simple-carousel) [![License: MIT](https://img.shields.io/npm/l/dky-simple-carousel?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ## Install
 
@@ -21,7 +21,7 @@ import 'dky-simple-carousel/dist/index.css'
 class Example extends Component {
   render() {
     return (
-      <div className="slideContainer" style={{}}>
+      <div>
         <SimpleCarousel>
           <div>Test 1</div>
           <div>Test 2</div>
