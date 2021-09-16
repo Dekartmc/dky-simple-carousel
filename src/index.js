@@ -10,7 +10,7 @@ export const ExampleComponent = ({ text }) => {
 }
 
 /* Main Component */
-export const SimpleCarousel = ({ children, className, style }) => {
+export const SimpleCarousel = ({ children }) => {
   const [index, setIndex] = useState(0)
   const timeoutRef = useRef(null)
 

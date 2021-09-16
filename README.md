@@ -2,7 +2,10 @@
 
 > dky-simple-carousel
 
-[![npm version](https://img.shields.io/npm/v/dky-simple-carousel.svg?style=flat-square)](https://www.npmjs.com/package/dky-simple-carousel) [![License: MIT](https://img.shields.io/npm/l/dky-simple-carousel?style=flat-square)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/dky-simple-carousel.svg?style=flat-square)](https://www.npmjs.com/package/dky-simple-carousel)
+[![](https://img.shields.io/github/last-commit/dekartmc/dky-simple-carousel/master)]()
+[![MIT license](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
+[![Twitter](https://img.shields.io/twitter/follow/dekartmc?style=social)](https://twitter.com/dekartmc)
 
 ## Install
 

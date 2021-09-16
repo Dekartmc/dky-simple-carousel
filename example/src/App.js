@@ -1,15 +1,15 @@
 import React from 'react'
-import styles from './customStyle.css'
+import './customStyle.css'
 
-import { ExampleComponent, SimpleCarousel } from 'simple-carousel'
-import 'simple-carousel/dist/index.css'
+import { ExampleComponent, SimpleCarousel } from 'dky-simple-carousel'
+import 'dky-simple-carousel/dist/index.css'
 
 const App = () => {
   return (
     <>
       {/* <ExampleComponent text="Create React Library Example 😄" /> */}
       <div className="slideContainer" style={{}}>
-        <SimpleCarousel>
+        <SimpleCarousel Dots={false}>
           <div className="slide">
             <h1>Title</h1>
             <h2>Sub-Title</h2>
@@ -23,6 +23,7 @@ const App = () => {
           <div>Test 2</div>
           <div>Test 3</div>
           <div>Test 4</div>
+          <div>Test 5</div>
         </SimpleCarousel>
       </div>
     </>
