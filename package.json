@@ -1,6 +1,6 @@
 {
   "name": "dky-simple-carousel",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Simple Carousel",
   "author": "Dekartmc",
   "license": "MIT",
@@ -49,5 +49,11 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "simple",
+    "carousel",
+    "typescript"
   ]
 }
