@@ -1,13 +1,13 @@
-# Simple Carousel
+# DKy Simple Carousel
 
-> simple-carousel
+> dky-simple-carousel
 
 [![NPM](https://img.shields.io/npm/v/simple-carousel.svg)](https://www.npmjs.com/package/simple-carousel) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save simple-carousel
+npm install --save dky-simple-carousel
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save simple-carousel
 ```jsx
 import React, { Component } from 'react'
 
-import { SimpleCarousel } from 'simple-carousel'
-import 'simple-carousel/dist/index.css'
+import { SimpleCarousel } from 'dky-simple-carousel'
+import 'dky-simple-carousel/dist/index.css'
 
 class Example extends Component {
   render() {
